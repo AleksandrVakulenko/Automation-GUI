@@ -1,8 +1,3 @@
-*.*
-
-
-!.gitignore
-!*.m
-
-
+test_closed/
+*.asv
 *untitled*.m
